@@ -1,6 +1,6 @@
 {
   "name": "passport-dvpnt-oauth2-strategy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "base oauth2 strategy for dvpnt projects",
   "main": "./lib",
   "scripts": {
